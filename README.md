@@ -1,10 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Isabellí and my nickname is "Isa"!
 
-<!--
 **Isabellitankian/Isabellitankian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data enginner at Santander
 - 🌱 I’m currently learning about ML and AI 
