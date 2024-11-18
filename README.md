@@ -3,7 +3,7 @@
 
 **Isabellitankian/Isabellitankian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on data enginner at Santander
+- 🔭 I’m currently working on data science at Santander
 - 🌱 I’m currently learning about ML and AI 
 - 👯 I’m looking to collaborate on my own projects :O
 - 🤔 I’m looking for help with python, every .py rs
